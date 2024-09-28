@@ -1,0 +1,9 @@
+flask
+flask-cors
+boto3
+pytesseract
+pdf2image
+Pillow
+PyMuPDF
+langchain
+faiss-cpu
